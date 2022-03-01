@@ -1,0 +1,15 @@
+body {
+    background: #d6c3c3;
+}
+
+h1 {
+    background: red;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.links .link-items {
+    font-size: 25px;
+    color: blue;
+}
