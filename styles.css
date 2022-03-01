@@ -13,3 +13,20 @@ h1 {
     font-size: 25px;
     color: blue;
 }
+
+h2 {
+    background: green;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul li {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ol li {
+    font-family: 'Courier New', Courier, monospace;
+}
